@@ -24,7 +24,7 @@
 📌 **진행 방식**
 
 1. Jupyter notebook의 코드 행간의 의미를 파악하고 적절한 방법을 구현해 넣으세요.
-2. Python IDE는 vscode, google-colab, anacondea  등 본인이 편한 환경으로 설정하여 진행하시되 ipynb 확장자의 jupyter notebook으로 전달해주세요.
+2. Python IDE는 vscode, google-colab, anaconda  등 본인이 편한 환경으로 설정하여 진행하시되 ipynb 확장자의 jupyter notebook으로 전달해주세요.
 3. 문제의 배경, 목표, 데이터, 요구사항을 숙지하여 진행해주세요.
 4. 제출방법
     1. 구글 서베이 링크로 들어가서 ipynb 확장 파일업로드
