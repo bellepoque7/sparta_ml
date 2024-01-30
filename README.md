@@ -10,8 +10,6 @@
 - pandas_study : 전처리 & 시각화 강의 공부노트
 - pandas_submit : 전처리 & 시각화 과제노트
 - pandas_review : 해설 듣고 복습한 내용
-
-# 기타
-
+## 기타
 - hello.py, sparta.py : 일회용 노트
 - tips_data.csv : 실습용 데이터 셋
