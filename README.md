@@ -7,11 +7,8 @@
     - 준비
         - 사전에 github 아이디를 slack 스레드에 작성(매니저님 공지)
         - 이후 github 가입 이메일로 온 collaborator 승인
-        - 깃허브 특강을 참조하여 sparta_ml 의 깃허브(https://github.com/bellepoque7/sparta_ml)를 로컬 리포지토리에 clone
+        - 깃허브 특강을 참조하여 sparta_ml 의 [깃허브](https://github.com/bellepoque7/sparta_ml) 를 로컬 리포지토리에 clone
         - {조}_{이름} 형식으로 ipynb 파일 제출
-            
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca41d8bf-6a16-4781-8edc-2b6156463b72/cdd4ba45-9924-464c-b782-82ba75009ecd/Untitled.png)
-            
         - (주의) 남의 파일 디렉토리나 파일을 가공하지 마세요
         - (주의2) 로컬코드 저장소에서 작업하다가 동기화로 날라갈 수 있으니 백업 해놓으세요!
     
@@ -20,13 +17,10 @@
 
 ## 2. 과제 목표 및 진행 안내
 
-<aside>
+
 📌 **과제 목표**
 1. 머신러닝 모델링을 하기 위한 데이터 수집, 정제, 시각화, 성능평가까지 전체 프로세스를 익혀봅니다.
 
-</aside>
-
-<aside>
 📌 **진행 방식**
 
 1. Jupyter notebook의 코드 행간의 의미를 파악하고 적절한 방법을 구현해 넣으세요.
@@ -34,11 +28,8 @@
 3. 문제의 배경, 목표, 데이터, 요구사항을 숙지하여 진행해주세요.
 4. 제출방법
     1. 구글 서베이 링크로 들어가서 ipynb 확장 파일업로드
-</aside>
 
-# 1. 과제 설명
-
-![art_15578874954808_fdb43d.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca41d8bf-6a16-4781-8edc-2b6156463b72/0816c4c9-19f7-46ee-9d6e-0aef4d488c3d/art_15578874954808_fdb43d.jpg)
+# 3. 과제 설명
 
 - 시나리오
     - 여러분은 S모 금융회사에 입사하였습니다. 올해 프로젝트로 회사의 주 수입원인 이자 매출 증대를 위해서 대출 권유 텔레마케팅을 진행할 예정입니다. 하지만 회사 고객이 1000만명이 넘는 대기업이기 때문에 모든 고객에게 텔레마케팅을 진행하는 것은 비용(돈, 시간)적인 방면에서 효율적이지 못합니다.
@@ -65,12 +56,11 @@
 ## 3. 문제 내용
 
 - 문제 출처
-    - 깃허브:
-    - 파일:
+    - 깃허브: https://github.com/bellepoque7/sparta_ml
+    - 파일: 
+
 - 문제 파일
     - 문제는 skeleton code를 제공하며, 문제 코드블록은 다음과 같이 Markdown 셀 바로 밑 코드 셀입니다.
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca41d8bf-6a16-4781-8edc-2b6156463b72/4bc71bcf-3c51-4dfc-be7a-3429ee65c96f/Untitled.png)
         
 
 - 문제1: 라이브러리를 이용해 데이터 불러오기
